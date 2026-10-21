@@ -1,0 +1,364 @@
+{
+  "dur": 60.0,
+  "fps": 30,
+  "bounds": [
+    4.5,
+    9.5,
+    16.5,
+    23.5,
+    31.0,
+    38.5,
+    46.0,
+    53.0
+  ],
+  "ev": {
+    "title_amb": 0.0,
+    "crown_slam": 1.5,
+    "years_tick": 2.8,
+    "dossier_in": 4.9,
+    "stamp_mawar": 6.4,
+    "shatter_98": 8.0,
+    "cab_in": 10.0,
+    "cab_ticks": 11.2,
+    "stamp_boros": 13.5,
+    "tray_slide": 17.0,
+    "slash_price": 19.0,
+    "cut_research": 21.2,
+    "hammer_slam": 24.5,
+    "tax_bell": 26.5,
+    "wallet_crush": 28.8,
+    "ihsg_dive": 31.8,
+    "panic_bell": 34.2,
+    "sarcasm_quote": 36.2,
+    "fire_ignite": 39.2,
+    "dead_crop": 41.8,
+    "smoke_boom": 44.0,
+    "debt_count": 46.8,
+    "bbm_lock": 49.5,
+    "fiscal_alarm": 51.2,
+    "final_slam": 53.8,
+    "verdict_hit": 56.0,
+    "final_chord_hit": 58.2
+  },
+  "sfx": [
+    {
+      "t": 0.0,
+      "type": "impact",
+      "gain": 0.95
+    },
+    {
+      "t": 1.5,
+      "type": "impact",
+      "gain": 0.9
+    },
+    {
+      "t": 1.5,
+      "type": "clap",
+      "gain": 0.8
+    },
+    {
+      "t": 2.8,
+      "type": "ticks",
+      "d": 1.2,
+      "step": 0.15,
+      "gain": 0.75
+    },
+    {
+      "t": 4.18,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 4.5,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 9.18,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 9.5,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 16.18,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 16.5,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 23.18,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 23.5,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 30.68,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 31.0,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 38.18,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 38.5,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 45.68,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 46.0,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 52.68,
+      "type": "whoosh",
+      "d": 0.5,
+      "gain": 0.9
+    },
+    {
+      "t": 53.0,
+      "type": "thud",
+      "gain": 0.75
+    },
+    {
+      "t": 4.9,
+      "type": "shimmer",
+      "d": 1.2,
+      "gain": 0.75
+    },
+    {
+      "t": 6.4,
+      "type": "impact",
+      "gain": 0.95
+    },
+    {
+      "t": 6.4,
+      "type": "bell",
+      "f": 660,
+      "gain": 0.65
+    },
+    {
+      "t": 8.0,
+      "type": "thud",
+      "gain": 0.85
+    },
+    {
+      "t": 10.0,
+      "type": "pop",
+      "gain": 0.8
+    },
+    {
+      "t": 11.2,
+      "type": "ticks",
+      "d": 1.8,
+      "step": 0.07,
+      "gain": 0.85
+    },
+    {
+      "t": 13.5,
+      "type": "impact",
+      "gain": 0.95
+    },
+    {
+      "t": 13.5,
+      "type": "clap",
+      "gain": 0.85
+    },
+    {
+      "t": 17.0,
+      "type": "whoosh",
+      "d": 0.45,
+      "gain": 0.7
+    },
+    {
+      "t": 19.0,
+      "type": "impact",
+      "gain": 0.85
+    },
+    {
+      "t": 21.2,
+      "type": "plink",
+      "gain": 0.85
+    },
+    {
+      "t": 24.5,
+      "type": "impact",
+      "gain": 1.0
+    },
+    {
+      "t": 24.5,
+      "type": "bell",
+      "f": 987,
+      "gain": 0.75
+    },
+    {
+      "t": 26.5,
+      "type": "thud",
+      "gain": 0.85
+    },
+    {
+      "t": 28.8,
+      "type": "impact",
+      "gain": 0.9
+    },
+    {
+      "t": 31.8,
+      "type": "rise",
+      "d": 1.8,
+      "f0": 720,
+      "f1": 140,
+      "gain": 0.9
+    },
+    {
+      "t": 34.2,
+      "type": "bell",
+      "f": 587,
+      "gain": 0.7
+    },
+    {
+      "t": 36.2,
+      "type": "thud",
+      "gain": 0.85
+    },
+    {
+      "t": 39.2,
+      "type": "shimmer",
+      "d": 2.2,
+      "gain": 0.85
+    },
+    {
+      "t": 41.8,
+      "type": "thud",
+      "gain": 0.8
+    },
+    {
+      "t": 44.0,
+      "type": "impact",
+      "gain": 0.9
+    },
+    {
+      "t": 46.8,
+      "type": "ticks",
+      "d": 1.6,
+      "step": 0.08,
+      "gain": 0.85
+    },
+    {
+      "t": 49.5,
+      "type": "thud",
+      "gain": 0.85
+    },
+    {
+      "t": 51.2,
+      "type": "bell",
+      "f": 784,
+      "gain": 0.75
+    },
+    {
+      "t": 53.8,
+      "type": "impact",
+      "gain": 0.95
+    },
+    {
+      "t": 56.0,
+      "type": "impact",
+      "gain": 1.0
+    },
+    {
+      "t": 56.0,
+      "type": "bell",
+      "f": 587,
+      "gain": 0.8
+    },
+    {
+      "t": 58.2,
+      "type": "sparkle",
+      "gain": 0.6
+    }
+  ],
+  "music": {
+    "bpm": 120,
+    "bars": [
+      "Dm",
+      "Bb",
+      "Gm",
+      "A",
+      "Dm",
+      "Gm",
+      "Bb",
+      "A",
+      "Dm",
+      "F",
+      "Gm",
+      "A",
+      "Bb",
+      "Gm",
+      "Dm",
+      "A",
+      "Dm",
+      "Bb",
+      "Gm",
+      "A",
+      "Gm",
+      "Dm",
+      "Bb",
+      "A",
+      "Dm",
+      "Gm",
+      "Bb",
+      "A",
+      "Dm",
+      "Dm"
+    ],
+    "breaks": [
+      [
+        4.8,
+        8.2
+      ],
+      [
+        24.0,
+        29.5
+      ]
+    ],
+    "build": [
+      50.0,
+      53.0
+    ],
+    "final": 58.2,
+    "final_chord": "Dm",
+    "arp_from": 4.5,
+    "hat_from": 2.0,
+    "clap_from": 2.0
+  }
+}

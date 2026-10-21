@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+.remotion/
+
+# Temporary audio build
+raw_mix.wav
+
+# Render outputs
+out/
+
+# System files
+.DS_Store
